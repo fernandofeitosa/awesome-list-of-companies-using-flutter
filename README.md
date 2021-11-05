@@ -11,5 +11,5 @@ For this first version of this list I decided to go against the usual and instea
 Contributions are welcome, if you want to add or update any of the infos there, create an issue and I will update it ASAP.
 
 
-## ✨✨✨✨✨ 👉 [TELETRANSPORT ME TO THE LIST](https://feitosa.notion.site/Companies-using-Flutter-List-65cdff09ede548c7ac36db892484ffb1) 👈 ✨✨✨✨✨
+## ✨✨✨✨✨ 👉 [TELETRANSPORT ME TO THE LIST](https://feitosa.notion.site/b2e53006b9ed4ce7a5554985f672763b?v=6679a312511744eaaedd65b0cb0db8fc) 👈 ✨✨✨✨✨
 ![Screen Shot 2021-11-05 at 16 04 07](https://user-images.githubusercontent.com/3979786/140543622-0857ae4b-2a82-4b76-a02e-cbf64e430d97.png)
