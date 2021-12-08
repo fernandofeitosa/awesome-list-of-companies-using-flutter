@@ -1,7 +1,7 @@
 # Companies using Flutter List 
 
 
-A shinny curated list of companies that use [flutter](https://flutter.dev) in their stack and may be hiring.
+After I started working on [Bora](https://heybora.com) using Flutter I decided to look at the companies that are using Flutter to see what they are doing, and then I realized there was not a place where I could easily find then, so I decided to create this shinny curated list of companies that use [flutter](https://flutter.dev) in their stack (and maybe are hiring).
 
 
 The general idea is to include tech companies that use Flutter in their stack. Some companies use only Flutter, and some use only on internal projects. 
