@@ -29,7 +29,7 @@ Company Name/website | Country where it's located | Remote/hybrid/onsite (where)
 | [Enlivio](https://www.enlivio.com/) | 🇦🇹 | Hybrid
 | [Enzo Wealth](http://www.enzowealth.com) | 🇺🇸 | US only
 | [EmbedIt](https://www.embedit.com/) | 🇨🇿 | Czech Republic only
-| [EPAM Systems](htps://www.epam.com/) | 🌍 | Poland only
+| [EPAM Systems](https://www.epam.com/) | 🌍 | Poland only
 | [Everbridge](https://www.everbridge.com/) | 🇺🇸 | US only
 | [Full Stack Labs](https://bliq.ai) | 🇩🇪 | Germany only
 | [Funda](https://www.funda.nl/) | 🇳🇱 | Hybrid
