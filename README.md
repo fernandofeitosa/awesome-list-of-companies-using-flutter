@@ -21,6 +21,7 @@ Company Name/website | Country where it's located | Remote/hybrid/onsite (where)
 | [Americanas S.A](https://www.americanas.com.br/) | 🇧🇷 | Brazil only
 | [Appinio](https://www.appinio.com/en/) | 🇩🇪 | Worldwide
 | [Arcthouch](https://arctouch.com/) | 🇧🇷 | Brazil only
+| [Betterment](https://www.betterment.com/) | 🇺🇸 | US only
 | [Bliq](https://bliq.ai) | 🇩🇪 | Germany only
 | [BrightHealth](https://bliq.ai) | 🇺🇸 | Austin Texas only
 | [CWI Software](https://cwi.com.br/  ) | 🇧🇷 | Brazil only
@@ -35,6 +36,8 @@ Company Name/website | Country where it's located | Remote/hybrid/onsite (where)
 | [Get Bridge](https://www.getbridge.com/) | 🇭🇺 | Hungary only
 | [GlobalLogic](https://www.globallogic.com) | 🇺🇸 | US only
 | [Here technologies](https://here.com) | 🇩🇪 | Onsite
+| [iFood](https://ifood.com.br) | 🇧🇷 | Brazil only
+| [itCraft](https://bliq.ai) | 🇩🇪 | Germany only
 | [IBM Brazil](https://www.ibm.com) | 🇧🇷 | Onsite
 | [itCraft](https://itcraftapps.com/) | 🇵🇱 | Poland only
 | [JustETF](https://www.justetf.com/en/) | 🇩🇪 | Germany only
@@ -50,6 +53,7 @@ Company Name/website | Country where it's located | Remote/hybrid/onsite (where)
 | [Publicis Sapient](https://www.publicissapient.com/) | 🌍 | Poland only
 | [Quinto Andar](https://quintoandar.com.br) | 🇧🇷 | Brazil only
 | [Refectly](https://reflectly.app/) | 🇪🇺 | EU only
+| [Rella](https://www.rellasocial.com/) | 🇺🇸 | US only
 | [Remessa Online](https://remessaonline.com.br) | 🇧🇷 | Brazil only
 | [Splice](https://splice.com) | 🇺🇸 | Onsite
 | [Superformula](https://superformula.net) | 🌍 | +/- 2 hours of EST or CST
@@ -61,5 +65,3 @@ Company Name/website | Country where it's located | Remote/hybrid/onsite (where)
 | [Very Good Ventures](https://verygood.ventures/) | 🇺🇸🇪🇺 | US, Poland, Spain, Netherlands only
 | [Voicemod](https://www.voicemod.net/) | 🇪🇸 | Spain only
 | [Windmill](https://www.windmill.digital/) | 🌍 | Worldwide
-
-| [itCraft](https://bliq.ai) | 🇩🇪 | Germany only
