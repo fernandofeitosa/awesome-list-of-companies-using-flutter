@@ -1,4 +1,4 @@
-# Companies using Flutter List 
+# Awesome List of Companies using Flutter
 
 
 A colaborative curated list of companies that use [flutter](https://flutter.dev) in their stack.
