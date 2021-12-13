@@ -24,6 +24,7 @@ Company Name/website | Country where it's located | Remote/hybrid/onsite (where)
 | [Betterment](https://www.betterment.com/) | 🇺🇸 | US only
 | [Bliq](https://bliq.ai) | 🇩🇪 | Germany only
 | [BrightHealth](https://bliq.ai) | 🇺🇸 | Austin Texas only
+| [CloudFit](https://cloudfit.tv) | 🇦🇺 | Hybrid
 | [CWI Software](https://cwi.com.br/  ) | 🇧🇷 | Brazil only
 | [Datadog](https://www.datadoghq.com) | 🇺🇸🇫🇷 | Onsite (NYC, Paris)
 | [Enlivio](https://www.enlivio.com/) | 🇦🇹 | Hybrid
