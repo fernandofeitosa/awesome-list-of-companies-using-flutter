@@ -50,6 +50,7 @@ Company Name/website | Country where it's located | Remote/hybrid/onsite (where)
 | [Miquido](https://www.miquido.com/) | 🇵🇱 | Hybrid  
 | [Motorola](https://motorola.com) | 🌍 | Poland only
 | [Nubank](https://nubank.com) | 🇧🇷 | Onsite São Paulo, Mexico city, bogota
+| [Nusawork](https://nusawork.com/) | 🇮🇩 | Indonesia only
 | [On Running](https://www.on-running.com/) | 🇩🇪 | Berlin only
 | [Publicis Sapient](https://www.publicissapient.com/) | 🌍 | Poland only
 | [Quinto Andar](https://quintoandar.com.br) | 🇧🇷 | Brazil only
