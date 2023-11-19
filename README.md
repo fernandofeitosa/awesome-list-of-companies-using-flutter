@@ -68,3 +68,4 @@ Company Name/website | Country where it's located | Remote/hybrid/onsite (where)
 | [Very Good Ventures](https://verygood.ventures/) | 🇺🇸🇪🇺 | US, Poland, Spain, Netherlands only
 | [Voicemod](https://www.voicemod.net/) | 🇪🇸 | Spain only
 | [Windmill](https://www.windmill.digital/) | 🌍 | Worldwide
+| [ZUP IT Innovation](https://zup.com.br/) | 🇧🇷🇺🇸 | Worldwide
