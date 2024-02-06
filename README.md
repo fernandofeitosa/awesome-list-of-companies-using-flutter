@@ -65,6 +65,7 @@ Company Name/website | Country where it's located | Remote/hybrid/onsite (where)
 | [TransPerfect](https://www.transperfect.com/) | 🇩🇪 | Onsite
 | [TriMeXa](https://trimexa.de) | 🇩🇪 | Germany only
 | [Toni Kroos Academy](https://www.tonikroos-academy.com/) | 🇩🇪 | Germany only
+| [uRyde](https://www.uryde.de/en) | 🇩🇪 | EU only
 | [Very Good Ventures](https://verygood.ventures/) | 🇺🇸🇪🇺 | US, Poland, Spain, Netherlands only
 | [Voicemod](https://www.voicemod.net/) | 🇪🇸 | Spain only
 | [Windmill](https://www.windmill.digital/) | 🌍 | Worldwide
